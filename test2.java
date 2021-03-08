@@ -13,6 +13,7 @@ public class Main {
             int number = sc.nextInt();
             System.out.println("Спасибо! Вы ввели число " + number);
             System.out.println
+            System.out.println
         }
 
     }
