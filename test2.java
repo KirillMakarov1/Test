@@ -12,6 +12,7 @@ public class Main {
         } else {
             int number = sc.nextInt();
             System.out.println("Спасибо! Вы ввели число " + number);
+            System.out.println
         }
 
     }
